@@ -3,7 +3,7 @@
 Flutter 登录界面 和 商城主页面（没写完这部分）
 
 
-设计图作者：Almaren社交APP设计-MasterGo 社区 https://mastergo.com/community/resource/10124
+设计图作者：https://www.ui.cn/detail/650696.html
 
 <img src="https://raw.githubusercontent.com/944095635/login_demo/master/images/1.jpg" width='360'>
 
