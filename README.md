@@ -1,16 +1,11 @@
 # utmost_shop
 
-A new Flutter project.
+Flutter 登录界面 和 商城主页面（没写完这部分）
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+设计图作者：Almaren社交APP设计-MasterGo 社区 https://mastergo.com/community/resource/10124
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://raw.githubusercontent.com/944095635/login_demo/master/images/1.jpg" width='360'>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://raw.githubusercontent.com/944095635/login_demo/master/images/2.jpg" width='360'>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
